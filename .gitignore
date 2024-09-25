@@ -1,0 +1,28 @@
+# Ignore virtual environment
+venv
+
+# Ignore data files
+data/*.json
+data/*.csv
+
+# Ignore Python cache files
+__pycache__
+*.py[cod]
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings folder
+.vscode
+
+# Ignore logs
+*.log
+old_logs
+
+*/.env
+
+ps.txt
+.env
+.DS_Store
